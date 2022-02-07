@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "168002195737",
+    "firebase_url": "https://video-strumming-app-default-rtdb.firebaseio.com",
+    "project_id": "video-strumming-app",
+    "storage_bucket": "video-strumming-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168002195737:android:20e929aa69fd62db7a7588",
+        "android_client_info": {
+          "package_name": "com.sumonkmr.sharingmomments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168002195737-nm79d6a7852r6k9sj49oblscrsnqlq3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRMIvUo9QJ36OO7KzFBKX0rOWD_DQxMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168002195737-nm79d6a7852r6k9sj49oblscrsnqlq3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168002195737:android:badffd5c5c2efb5e7a7588",
+        "android_client_info": {
+          "package_name": "com.sumonkmr.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168002195737-dhha1pnd2cvq4mbqq3ap238brtmogpss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumonkmr.videostreaming",
+            "certificate_hash": "1ff49c8a43a89f9b6b52a63374222c6cdbcebaee"
+          }
+        },
+        {
+          "client_id": "168002195737-nm79d6a7852r6k9sj49oblscrsnqlq3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRMIvUo9QJ36OO7KzFBKX0rOWD_DQxMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168002195737-nm79d6a7852r6k9sj49oblscrsnqlq3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
